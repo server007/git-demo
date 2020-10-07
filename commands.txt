@@ -1,0 +1,11 @@
+Basic git commands are
+• Init
+• Status
+• Add
+• Commit 
+• Pull
+• Push
+• Clone
+• Stash
+• Gitk
+• branch
