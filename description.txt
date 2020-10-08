@@ -1,3 +1,6 @@
 This is a first file to be used as a demo in git assignment
 
+<<<<<<< HEAD
 * changes made by git-demo-1
+* Change is made here
+
