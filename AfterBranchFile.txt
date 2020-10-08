@@ -1,3 +1,6 @@
 This file is created after a new branch is created
 
+<<<<<<< HEAD
 *changes from demo-1 to create conflict
+
+* changes for conflict
